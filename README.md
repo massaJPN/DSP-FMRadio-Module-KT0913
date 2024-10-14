@@ -1,5 +1,6 @@
 # DSP-FMRADIO-MODULE-KT0913
-https://massa4649.booth.pm/items/5619730 の製品説明となります。
+https://massa4649.booth.pm/items/5619730 の製品説明となります。　　
+![outline](https://github.com/user-attachments/assets/e9a5e0b1-2af1-4b31-b21f-192ea27fd7b6)
 ## 概要
 モジュールを制御するマイコンとのインターフェース用の端子配列は、M5StickC-PLUSのコネクタに直刺しで動作させることを考慮した設計にしています。
 また、FM受信アンテナは、Φ3.5mmステレオミニジャックに接続するイアホンやオーディオケーブルのGNDラインを利用する仕様となっています。
