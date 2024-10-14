@@ -34,7 +34,7 @@ TOPページ：https://akizukidenshi.com/catalog/c/c0/
 
 ## 外観
 ・8ピンヘッダを実装しています。  
-
+![module-50](https://github.com/user-attachments/assets/e335cb79-b635-420e-b89e-9f809117f863)
 
 ## 端子配列
 |Pin|Pin Name|I/O|Function|
