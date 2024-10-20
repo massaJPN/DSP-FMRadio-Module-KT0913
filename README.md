@@ -34,8 +34,8 @@ TOPページ：https://akizukidenshi.com/catalog/c/c0/
 ・モジュールに実装されている水晶振動子は、デフォルトのレジスタ設定で動作するように32.768kHzを使用しています。
 
 ## 外観
-・8ピンヘッダを実装しています。  
-![module-50](https://github.com/user-attachments/assets/e335cb79-b635-420e-b89e-9f809117f863)
+・8ピンヘッダを実装していてM5StickC PLUSの端子とスムーズに接続できます。
+![module2-30per](https://github.com/user-attachments/assets/3c74b1cb-6309-4528-93c6-1831bfa8984b)
 
 ## 端子配列
 |Pin|Pin Name|I/O|Function|
