@@ -82,9 +82,9 @@ TOPページ：https://akizukidenshi.com/catalog/c/c0/
   
 [![紹介動画]()](https://youtu.be/vZIJL4G87UQ)
 
-### M5StickC Plus 用ラジオプログラムの操作説明（KT0913版）
+### M5StickC Plus 用ラジオプログラムの操作説明（KT0913版 v0.2）
 
-M5StickC Plus に本モジュールを直刺しして使う、FM ラジオプログラムの操作説明です。
+M5StickC Plus に本モジュールを直刺しして使う、FM ラジオプログラム（v0.2）の操作説明です。
 画面の向きが縦向き版と横向き版の 2 種類があり、操作はどちらも同じです（画面イメージは両方を並べて掲載しています）。
 
 
